@@ -1,7 +1,6 @@
 package one.digitalinnovation.digionebank.testes
 
-import Funcionario
-import one.digitalinnovation.digionebank.Pessoa
+import one.digitalinnovation.digionebank.Funcionario
 import java.math.BigDecimal
 
 fun main() {

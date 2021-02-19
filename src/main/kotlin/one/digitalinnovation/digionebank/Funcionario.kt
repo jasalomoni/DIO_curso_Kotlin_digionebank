@@ -1,3 +1,5 @@
+package one.digitalinnovation.digionebank
+
 import one.digitalinnovation.digionebank.Pessoa
 import java.math.BigDecimal
 

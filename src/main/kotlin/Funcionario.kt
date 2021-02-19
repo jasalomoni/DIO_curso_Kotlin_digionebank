@@ -6,4 +6,5 @@ class Funcionario(
     override val cpf: String,
     val salario: BigDecimal
 ) : Pessoa(nome, cpf) {
+
 }
